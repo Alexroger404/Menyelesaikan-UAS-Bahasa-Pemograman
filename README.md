@@ -8,6 +8,8 @@
 | 1. | Folder Syntax | [penjelasan](#Tugas PackageModule) | [codenya](#main.py) |
 | 2. | hasil Program | [penjelasan](#Tugas PackageModule) | [foto](#image) |  
 
+![d01d29b9-d936-4cf2-89ad-271ad0a38fca](https://user-images.githubusercontent.com/73045261/104221100-082bea00-5473-11eb-903c-d1a2098c1a0a.jpg)
+
 
 # Tugas PackageModule
 Membuat package dan modul berdasarkan tugas praktikum yang sebelumnya dengan struktur seperti berikut:
