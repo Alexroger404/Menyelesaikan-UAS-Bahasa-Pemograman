@@ -1,10 +1,10 @@
 from view.input_nilai import *
-#Rizkyy Coderr
-#Jangan Record Masss
+#Manurung Alex
+#Alex Roger
 data = {}
 
 def tambah_data():
-    print("====Tambah Data Dulu Boskuu====")
+    print("====Tambah Data====")
     global data
     nama = input_nama()
     nim = input_nim()
@@ -17,7 +17,7 @@ def tambah_data():
     return data
 
 def ubah_data():
-    print("====Ubah Data Dulu Boskuu====")
+    print("====Ubah Data====")
     nama = input("Masukkan Nama: ")
     if nama in data.keys():
         nim           = input_nim()
