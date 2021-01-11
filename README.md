@@ -6,11 +6,5 @@
 ## Daftar Isi
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
-| 1. | Folder Syntax | [penjelasan](#Tugas PackageModule) | [codenye](#main.py) |
+| 1. | Folder Syntax | [penjelasan](#Tugas PackageModule) | [codenya](#main.py) |
 | 2. | hasil Program | [penjelasan](#Tugas PackageModule) | [foto](#image) |  
-## Daftar Isi
-| No | ISI | Link | Source Code |
-| -- | --- | ---- | ----------- |
-| 1. | Folder Syntax | [penjelasan](#Tugas PackageModule) | [codenye](#main.py) |
-| 2. | hasil Program | [penjelasan](#Tugas PackageModule) | [foto](#image) |  
-
