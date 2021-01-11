@@ -1,6 +1,6 @@
 from model.daftar_nilai import *
-#Rizkyyz Ganss parah
-#Jangan Di Record Ya masszz
+#Manurung Alex Roger
+#Alex Roger
 def cetak_daftar_nilai():
     print("====Lihat Data====")
     if data.items():
@@ -19,7 +19,7 @@ def cetak_daftar_nilai():
         print("==================================================================")
         print("| No |     Nama     |    NIM    | Tugas |  UTS  |  UAS  |  Akhir |")
         print("==================================================================")
-        print("|                          DATA GADA BOSS KU                      |")
+        print("|                          DATA GADA                     |")
         print("==================================================================")
 
 def cetak_hasil_pencarian():
