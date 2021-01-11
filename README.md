@@ -1,5 +1,5 @@
 # Menyelesaikan-UAS-Bahasa-Pemograman
 
-Nama	kelas	Nim	Matkul
-Mohammad Rizky	TI.A2.20	312010230	Bahasa Pemrograman
+| Nama | kelas | Nim | Matkul |
+| Manurung Alex R | TI.20.A.2 | 312010478 | BAHASA PEMOGRAMAN |
 
